@@ -1,0 +1,13 @@
+{
+  "name": "xray-vless-ws-node-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Platform-agnostic Node.js WebSocket gateway for a local Xray VLESS inbound",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
